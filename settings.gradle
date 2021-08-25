@@ -1,0 +1,4 @@
+rootProject.name = 'fixed-data'
+
+include 'fixed-data-domain'
+include 'fixed-data-api'
